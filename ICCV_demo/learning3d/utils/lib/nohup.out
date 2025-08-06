@@ -1,0 +1,16 @@
+[W 2023-02-08 07:52:24.665 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-08 07:52:24.666 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-08 07:52:24.666 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-08 07:52:24.666 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-08 07:52:24.666 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-02-08 07:52:24.666 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-02-08 07:52:24.675 LabApp] JupyterLab extension loaded from /opt/conda/envs/py3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-08 07:52:24.675 LabApp] JupyterLab application directory is /opt/conda/envs/py3/share/jupyter/lab
+/opt/conda/envs/py3/lib/python3.8/site-packages/jupytext/cell_reader.py:20: UserWarning: Sphinx Gallery in version 0.11.1 is not supported by Jupytext. Please use sphinx-gallery<=0.7.0 instead. If that is an issue, feel free to report it at https://github.com/mwouts/jupytext/issues, or even better, prepare a PR to handle the new signature of sphinx_gallery.notebook.rst2md.
+  warnings.warn(
+[I 07:52:25.040 NotebookApp] [Jupytext Server Extension] Deriving a JupytextContentsManager from LargeFileManager
+[I 07:52:25.042 NotebookApp] The port 9999 is already in use, trying another port.
+[I 07:52:25.042 NotebookApp] Serving notebooks from local directory: /workspace/program/learning3d/utils/lib
+[I 07:52:25.043 NotebookApp] Jupyter Notebook 6.4.4 is running at:
+[I 07:52:25.043 NotebookApp] http://5ef5c5294dc0:10000/
+[I 07:52:25.043 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
